@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tech Academy Expert
+title: Peter Keroti
 email: peterkeroti55@gmail.com
 author: Peter keroti
 
@@ -40,10 +40,10 @@ author: Peter keroti
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
+copyright: "Copyright (cleft) 2023-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  This website is a trial of how to create a website and learning more about being a software programmer 
+  This website is a trial on how to create a website and learning more about being a Fullstack developer 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
