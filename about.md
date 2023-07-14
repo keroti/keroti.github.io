@@ -3,9 +3,10 @@ layout: about
 title: About
 ---
 
-## About
 
 <p>Hi, nice to meet you.</p>
+
+## About
 
 ### Why
 I am a software engineer and photographer from Kenya, driven by a deep passion for art and technology.
